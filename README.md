@@ -1,6 +1,6 @@
-# navegacionsegura
+# Navegacion Segura
 
-#Que puedo usar para que mis hijos naveguen seguros
+## Que puedo usar para que mis hijos naveguen seguros
 
 Controles parentales: Son caracteristicas que se incluyen en servicios de television digital, programas de computadora, video juegos o dispositivos moviles.
 
